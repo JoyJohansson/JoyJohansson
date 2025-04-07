@@ -60,7 +60,7 @@ Hi, I'm Joy Johansson — a DevOps Engineer with a background in biomedical scie
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ansible/ansible-original.svg" alt="Ansible" width="30" height="30"/>
   <img src="https://raw.githubusercontent.com/cncf/artwork/master/projects/argo/icon/color/argo-icon-color.svg" alt="ArgoCD" width="30" height="30"/>
   <img src="https://raw.githubusercontent.com/cncf/artwork/master/projects/helm/icon/color/helm-icon-color.svg" alt="Helm" width="30" height="30"/>
-  <img src="https://raw.githubusercontent.com/goharbor/community/main/media/logo/harbor-icon-color.svg" alt="Harbor" width="30" height="30"/>
+  <img src="https://www.bing.com/ck/a?!&&p=09d8b51ecfcd23342e90c3d6dd6087205c6f5af209eab71923890a3db6aae8fbJmltdHM9MTc0Mzk4NDAwMA&ptn=3&ver=2&hsh=4&fclid=075ad178-f591-6a19-30ee-c4caf4c66ba7&u=a1L2ltYWdlcy9zZWFyY2g_cT1oYXJib3IlMjBpY29uJkZPUk09SVFGUkJBJmlkPUFENkU5MDgxRkJDMUY2NTA5MEIxMDcwODBGREVBREE5NzY5OEFEMDQ&ntb=1" alt="Harbor" width="30" height="30"/>
 </p>
 
 ## Connect with Me
