@@ -1,20 +1,33 @@
+
 ## About Me
 
-Hi, I'm Joy Johansson — a DevOps Engineer with a background in science and a mindset shaped by curiosity, precision, and resilience. I work hands-on with cloud infrastructure, Kubernetes platforms, and automation, focusing on building secure, scalable, and maintainable systems. My approach blends structured learning with practical implementation and a commitment to continuous improvement.
+Hi, I'm Joy Johansson — a DevOps Engineer with a background in biomedical science and over two decades of professional experience. My journey has taken me from medical documentation to the dynamic world of DevOps, driven by curiosity, precision, and resilience. I focus on cloud infrastructure, Kubernetes platforms, and automation, aiming to build secure, scalable, and maintainable systems. My approach combines structured learning with practical implementation and a commitment to continuous improvement.
 
-- 🚀 Currently working with **Azure**, **Kubernetes**, and **Infrastructure as Code**
-- ⚙️ Experienced in CI/CD pipelines, containerisation, monitoring, and platform security
-- ✍️ I document processes, contribute to internal knowledge bases, and share insights externally
-- 💡 Strong interest in platform engineering, compliance, and cloud-native technologies
-- 🎓 Academic background in Biomedical Science and Surface Technology
-- 💬 Ask me about **GitHub workflows**, **Helm**, or managing complexity with clarity
-- ⚡ Fun fact: I started figure skating in adulthood — because learning never stops
+- 🚀 **Currently Engaged With**: Azure, Kubernetes, and Infrastructure as Code
+- ⚙️ **Expertise In**: CI/CD pipelines, containerisation, monitoring, and platform security
+- 📚 **Recent Training**: Completed Certified Kubernetes Administrator (CKA) training at Elastisys
+- ✍️ **Publications**: Authored several articles on DevOps methodologies and tools
+- 🎓 **Education**: MSc in Biomedical Science
+- 💬 **Let's Discuss**: Debugging cluster issues, securing container images, writing clean YAML, or simply learning 
+                        out loud.
+                        Kubernetes patterns, GitOps workflows, Helm charts, or CI/CD orchestration with Ansible and ArgoCD.
+- ⚡ **Fun Fact**: I took up figure skating as an adult — because learning never stops
 
-![Profile Views](https://komarev.com/ghpvc/?username=JoyJohansson&style=flat-square)
+## Professional Experience
 
-## Selected Work
+### DevOps Engineer Intern, Elastisys 
+- Completed **Certified Kubernetes Administrator (CKA)** training — intensive hands-on course focused on Kubernetes internals, cluster management, and troubleshooting — working towards certification
+- Worked with a compliance-focused Kubernetes platform (CK8s), documentation, automation, and secure image handling 
+- Contributed to internal guides and provided feedback from a beginner’s perspective to improve onboarding documentation
 
-- [CI/CD Pipeline with Docker, Kubernetes, and Ansible](https://github.com/JoyJohansson/ci-cd-docker-kubernetes-ansible) – Demonstrates a fully automated CI/CD pipeline deploying an Nginx web server using Docker, Kubernetes, and Ansible.
+### DevOps Engineer Intern, Schneider Electric 
+- Completed **Microsoft Azure Administrator (AZ-104)** training — working towards certification 
+- Working with Azure resources, automation, RBAC, monitoring, and infrastructure design 
+- Building pipelines in Azure DevOps and exploring hybrid environments in large-scale industrial systems
+
+## Selected Projects
+
+- [CI/CD Pipeline with Docker, Kubernetes, and Ansible](https://github.com/JoyJohansson/ci-cd-docker-kubernetes-ansible): Developed a fully automated CI/CD pipeline deploying an Nginx web server using Docker, Kubernetes, and Ansible.
 
 ## Publications
 
@@ -47,7 +60,7 @@ Hi, I'm Joy Johansson — a DevOps Engineer with a background in science and a m
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ansible/ansible-original.svg" alt="Ansible" width="30" height="30"/>
   <img src="https://raw.githubusercontent.com/cncf/artwork/master/projects/argo/icon/color/argo-icon-color.svg" alt="ArgoCD" width="30" height="30"/>
   <img src="https://raw.githubusercontent.com/cncf/artwork/master/projects/helm/icon/color/helm-icon-color.svg" alt="Helm" width="30" height="30"/>
-  <img src="https://raw.githubusercontent.com/goharbor/artwork/master/harbor/icon/harbor-icon-color.svg" alt="Harbor" width="30" height="30"/>
+  <img src="https://raw.githubusercontent.com/goharbor/community/main/media/logo/harbor-icon-color.svg" alt="Harbor" width="30" height="30"/>
 </p>
 
 ## Connect with Me
@@ -55,5 +68,3 @@ Hi, I'm Joy Johansson — a DevOps Engineer with a background in science and a m
 - [LinkedIn](https://www.linkedin.com/in/joy-johansson-b01134144)
 - [Website](https://joyjohansson.github.io/JoyJohansson/)
 - [GitHub](https://github.com/JoyJohansson)
-
----
