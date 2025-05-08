@@ -1,72 +1,66 @@
-"Every line of code, every configuration — all are part of a masterpiece that conects systems and creates possibilities"    
+"Every line of code, every configuration — all are part of a masterpiece that connects systems and creates possibilities"
 
+### About Me
 
-## About Me
+Hi, I'm Joy Johansson — a detail-oriented and highly motivated Junior DevOps Engineer with a rich background spanning over two decades, including biomedical science. This unique journey has instilled in me a strong sense of precision, resilience, and a drive for continuous learning, now focused on the exciting world of DevOps.
 
-Hi, I'm Joy Johansson — a DevOps Engineer with a background in biomedical science and over two decades of professional experience. My journey has taken me from medical documentation to the dynamic world of DevOps, driven by curiosity, precision, and resilience. I focus on cloud infrastructure, Kubernetes platforms, and automation, aiming to build secure, scalable, and maintainable systems. My approach combines structured learning with practical implementation and a commitment to continuous improvement.
+My passion lies in building secure, scalable, and maintainable systems through a deep understanding of cloud infrastructure, particularly Microsoft Azure, and container orchestration with Kubernetes. I'm dedicated to automating processes and implementing robust CI/CD pipelines to streamline development workflows.
 
-- 🚀 **Currently Engaged With**: Azure, Kubernetes, and Infrastructure as Code
-- ⚙️ **Expertise In**: CI/CD pipelines, containerisation, monitoring, and platform security
-- 📚 **Recent Training**: Completed Certified Kubernetes Administrator (CKA) training at Elastisys
-- ✍️ **Publications**: Authored several articles on DevOps methodologies and tools
-- 🎓 **Education**: MSc in Biomedical Science
-- 💬 **Let's Discuss**: Debugging cluster issues, securing container images, writing clean YAML, or simply learning 
-                        out loud.
-                        Kubernetes patterns, GitOps workflows, Helm charts, or CI/CD orchestration with Ansible and ArgoCD.
-- ⚡ **Fun Fact**: I took up figure skating as an adult — because learning never stops
+🚀 **Currently Engaged With:** Azure, Kubernetes, and Infrastructure as Code (Bicep, Ansible)
+⚙️ **Expertise In:** CI/CD pipelines (Azure DevOps, GitLab), containerisation (Docker), monitoring (Grafana, Prometheus), platform security, and scripting (Python, PowerShell, YAML).
+📚 **Recent Training:** Completed Certified Kubernetes Administrator (CKA) training at Elastisys. Currently pursuing Microsoft Azure Administrator (AZ-104) certification.
+✍️ **Publications:** Authored several articles on DevOps methodologies and tools, sharing insights and experiences.
+🎓 **Education:** MSc in Biomedical Science, complemented by a strong foundation in DevOps from Jensen Higher Vocational Education.
+💬 **Let's Discuss:** Debugging cluster issues, securing container images, writing clean YAML, or simply learning out loud. Keen to explore Kubernetes patterns, GitOps workflows (ArgoCD, Helm Charts), and CI/CD orchestration.
+⚡ **Fun Fact:** I took up figure skating as an adult — because learning never stops!
 
-## Professional Experience
+### Professional Experience
 
-### DevOps Engineer Intern, Elastisys 
-- Completed **Certified Kubernetes Administrator (CKA)** training — intensive hands-on course focused on Kubernetes internals, cluster management, and troubleshooting — working towards certification
-- Worked with a compliance-focused Kubernetes platform (CK8s), documentation, automation, and secure image handling 
-- Contributed to internal guides and provided feedback from a beginner’s perspective to improve onboarding documentation
+**Co-op DevOps Engineer, Schneider Electric** | July 2024 – Sept 2024 & March 2025 – Present
+Building and maintaining CI/CD pipelines using Azure DevOps and GitLab, managing source control via GitHub/GitLab, and deploying applications on Azure App Services and VMs. Automating deployments with PowerShell and YAML, reducing manual effort, and troubleshooting build and deployment issues. Familiar with IaC using Bicep templates and participating in Agile practices.
 
-### DevOps Engineer Intern, Schneider Electric 
-- Completed **Microsoft Azure Administrator (AZ-104)** training — working towards certification 
-- Working with Azure resources, automation, RBAC, monitoring, and infrastructure design 
-- Building pipelines in Azure DevOps and exploring hybrid environments in large-scale industrial systems
+**Co-op DevOps Engineer, Elastisys** | Sept 2024 – March 2025
+Completed Certified Kubernetes Administrator (CKA) training. Worked with a compliance-focused Kubernetes platform (CK8s), focusing on documentation, automation, and secure image handling. Contributed to internal guides and provided feedback on onboarding documentation. Completed a Bachelor level thesis entitled "Elastisys Welkin: Security and Compliance by Design in Cloud-Native Kubernetes Environments" (not published).
 
-## Selected Projects
+### Selected Projects
 
-- [CI/CD Pipeline with Docker, Kubernetes, and Ansible](https://github.com/JoyJohansson/ci-cd-docker-kubernetes-ansible): Developed a fully automated CI/CD pipeline deploying an Nginx web server using Docker, Kubernetes, and Ansible.
+**CI/CD Pipeline with Docker, Kubernetes, and Ansible:** Developed a fully automated CI/CD pipeline deploying an Nginx web server using Docker, Kubernetes, and Ansible.
 
-## Publications
+### Publications
 
-- [Reset and Reboot: My Path from Cancer to Tech](https://www.linkedin.com/pulse/reset-reboot-my-path-from-cancer-tech-joy-johansson-sqtwf)
-- [From Hello World to High Availability: My Dive into DevOps](https://www.linkedin.com/pulse/from-hello-world-high-availability-my-dive-devops-joy-johansson-ldz3f)
-- [Landing the Internships of Your Dreams](https://www.linkedin.com/pulse/landing-internship-my-dreams-joy-johansson-mfsme)
-- [DevOps: Decoding the Mystery](https://www.linkedin.com/pulse/devops-decoding-mystery-joy-johansson-sczwf)
-- [The Perfect Trio: How ITIL, Agile, and a Holistic Mindset Transform DevOps Engineering](https://www.linkedin.com/pulse/perfect-trio-how-itil-agile-holistic-mindset-devops-joy-johansson-2ydif)
-- [Claiming the Iron Throne of DevOps: My Journey from Mac & PC to Linux Ubuntu](https://www.linkedin.com/pulse/claiming-iron-throne-devops-my-journey-from-mac-pc-linux-johansson-zwyqc)
-- [Kubernetes: A Journey Through Complexity, Curiosity, and Growth](https://www.linkedin.com/pulse/kubernetes-journey-through-complexity-curiosity-growth-joy-johansson-8mcof)
-- [Agile Chronicles: Mistakes, Milestones, and Momentum](https://www.linkedin.com/pulse/agile-chronicles-mistakes-milestones-momentum-joy-johansson-hibef)
-- [Power Up Your Passwords with pass: A Guide for Command-Line Security](https://www.linkedin.com/pulse/power-up-your-passwords-pass-guide-command-line-security-joy-johansson)
-- [Supercharge Your Terminal: The Ultimate Setup for DevOps](https://www.linkedin.com/pulse/supercharge-your-terminal-ultimate-setup-devops-joy-johansson)
-- [Understanding the Differences Between Minikube and CK8S](https://www.linkedin.com/pulse/understanding-differences-between-minikube-ck8s-joy-johansson)
-- [YAML, Kubernetes, Helm, and Ingress: The DevOps Intern’s Guide to the Party](https://www.linkedin.com/pulse/yaml-kubernetes-helm-ingress-devops-interns-guide-party-joy-johansson)
-- [Reflections on Deploying Applications with Argo CD: A GitOps Adventure](https://www.linkedin.com/pulse/reflections-deploying-applications-argo-cd-gitops-adventure-joy-johansson)
-- [The DevOps Travel Guide: Product Companies vs. Consulting Firms – Your Ticket to Tech Adventure](https://www.linkedin.com/pulse/devops-travel-guide-product-companies-vs-consulting-firms-joy-johansson)
-- [Manual Testing Insights: Enhancing DevOps Practices](https://www.linkedin.com/pulse/manual-testing-insights-enhancing-devops-practices-joy-johansson)
+* Reset and Reboot: My Path from Cancer to Tech
+* From Hello World to High Availability: My Dive into DevOps
+* Landing the Internships of Your Dreams
+* DevOps: Decoding the Mystery
+* The Perfect Trio: How ITIL, Agile, and a Holistic Mindset Transform DevOps Engineering
+* Claiming the Iron Throne of DevOps: My Journey from Mac & PC to Linux Ubuntu
+* Kubernetes: A Journey Through Complexity, Curiosity, and Growth
+* Agile Chronicles: Mistakes, Milestones, and Momentum
+* Power Up Your Passwords with pass: A Guide for Command-Line Security
+* Supercharge Your Terminal: The Ultimate Setup for DevOps
+* Understanding the Differences Between Minikube and CK8S
+* YAML, Kubernetes, Helm, and Ingress: The DevOps Intern’s Guide to the Party
+* Reflections on Deploying Applications with Argo CD: A GitOps Adventure
+* The DevOps Travel Guide: Product Companies vs. Consulting Firms – Your Ticket to Tech Adventure
+* Manual Testing Insights: Enhancing DevOps Practices
 
-## Tooling & Technologies
+### Tooling & Technologies
 
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" alt="Azure" width="30" height="30"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="30" height="30"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="30" height="30"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" alt="Kubernetes" width="30" height="30"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="Bash" width="30" height="30"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="30" height="30"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" alt="GitHub" width="30" height="30"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ansible/ansible-original.svg" alt="Ansible" width="30" height="30"/>
-  <img src="https://raw.githubusercontent.com/cncf/artwork/master/projects/argo/icon/color/argo-icon-color.svg" alt="ArgoCD" width="30" height="30"/>
-  <img src="https://raw.githubusercontent.com/cncf/artwork/master/projects/helm/icon/color/helm-icon-color.svg" alt="Helm" width="30" height="30"/>
-  <img src=""C:\Users\sesa776393\Downloads\harbor.jpg" alt="Harbor" width="30" height="30"/>
-</p>
+* **Containerisation & Orchestration:** Docker, Kubernetes, ArgoCD, Helm Charts
+* **Infrastructure as Code (IaC):** Bicep, Ansible
+* **CI/CD & Version Control:** Azure DevOps, GitLab, GitHub, CI/CD Automation
+* **Cloud Platforms:** Microsoft Azure, Function App
+* **Scripting & Languages:** Python, PowerShell, YAML, Bash
+* **Monitoring & Observability:** Grafana, Prometheus
+* **Operating Systems:** Ubuntu, Windows, macOS
+* **Networking:** VNet/Subnet/Network, TCP/IP
+* **Databases:** MongoDB, MySQL, PostgreSQL, MariaDB
+* **Web Servers & Frameworks:** Nginx, Apache, Node.js
+* **Project Management & Collaboration:** Jira, Trello, Slack
+* **Web Content Management Systems (CMS):** WordPress
 
-## Connect with Me
+### Connect with Me
 
-- [LinkedIn](https://www.linkedin.com/in/joy-johansson-b01134144)
-- [Website](https://joyjohansson.github.io/JoyJohansson/)
-- [GitHub](https://github.com/JoyJohansson)
+[LinkedIn](Your LinkedIn Profile URL)
+[Website](Your Website URL)
+[GitHub](Your GitHub Profile URL)
